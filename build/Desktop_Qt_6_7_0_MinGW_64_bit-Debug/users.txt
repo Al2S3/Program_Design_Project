@@ -1,0 +1,6 @@
+a:1:student
+b:2:administrator
+hjc:123456:teacher
+h:1:teacher
+1:1:student
+z:z:student

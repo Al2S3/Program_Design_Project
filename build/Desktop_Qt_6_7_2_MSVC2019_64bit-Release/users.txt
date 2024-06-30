@@ -1,0 +1,6 @@
+1:1:teacher
+明明:1:teacher
+白白:1:student
+教务:1:administrator
+天天:1:teacher
+admin:admin:administrator

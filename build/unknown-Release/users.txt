@@ -1,0 +1,3 @@
+
+hujiachi:123456:student
+HUJIACHI:12345:teacher
